@@ -15,13 +15,13 @@ Google Colab上で実行可能
 
   Transition Minimized（遷移時間最短）：未考慮
   <br>
-  DC Balance（DCバランス）：考慮
+  DC Balanced（DCバランス）：考慮
 <br><br>
 - [TMDS_TEMPEST_Simulator_2.ipynb](TMDS_TEMPEST_Simulator_2.ipynb)
 
   Transition Minimized（遷移時間最短）：考慮
   <br>
-  DC Balance（DCバランス）：考慮
+  DC Balanced（DCバランス）：考慮
 
 <br><br>
 
