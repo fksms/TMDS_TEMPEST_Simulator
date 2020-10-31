@@ -7,16 +7,14 @@ TMDS信号については[こちら](https://github.com/daianjibetu/TMDS_Signal_
 <br><br><br>
 
 ## 実行結果
-<br>
-
-表示画像①
+入力画像①
 <img src="img/1.png"><br><br>
 
-再構築画像①
+出力画像①
 <img src="img/1_TEMPEST.png"><br><br>
 
-表示画像②
+入力画像②
 <img src="img/2.png"><br><br>
 
-再構築画像②
+出力画像②
 <img src="img/2_TEMPEST.png"><br><br>
